@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>SHARQDARMON TASK</title>
+        <description>Most recent updates to SHARQDARMON TASK</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.34+1</title>
+            <appId>com.sharqdarmon.sharqdarmon</appId>
+            <description>
+                 <ul> 
+                        <li>Auto update Ukam 6</li>
+                        <li>app idni o'zgartib qo'y</li>
+                    </ul> 
+            </description>
+            <pubDate>Sun, 7 avgust 2024 12:00:00 +0800</pubDate>
+            <enclosure url="https://github.com/abdulazizmalikov18/sharqdarmon/releases/download/task/sharqdarmon-1.0.34+1-windows-setup.exe"
+                sparkle:dsaSignature="MD0CHQDKkNLGFbOIHhqlLTmQLLBoAuk1v/ss9UlArsSDAhxezVXyeYa8xSJgezdJvalsFs79NXFIY9lYSJyS"
+                sparkle:version="1.0.34+1"
+                sparkle:os="windows"
+                length="0"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
